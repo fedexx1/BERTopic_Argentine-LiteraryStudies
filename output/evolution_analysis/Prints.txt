@@ -1,0 +1,276 @@
+ORIGINAL TOPIC REPRESENTATIONS (from trained model)
+Topic  0 (403 docs): politico, nacional, social, cultura, cultural, ciudad, imagen, cuerpo, relacion, memoria
+Topic  1 (254 docs): social, discurso, cultura, relacion, politico, punto, idea, dios, cultural, humano
+Topic  2 (217 docs): violencia, sexual, cuerpo, genero, social, femenino, mexico, masculinidad, madre, discurso
+Topic  3 (185 docs): dios, romano, griego, seneca, muerte, virgilio, enea, humano, roma, imagen
+Topic  4 (181 docs): poesia, poema, poeta, poetico, verso, ovidio, voz, horacio, poetica, imagen
+Topic  5 (156 docs): america, colonial, cultural, latinoamericano, mexico, cultura, latino, nacional, argentina, social
+Topic  6 (135 docs): teatro, memoria, teatral, baudelaire, aira, escena, cuento, arte, version, museo
+Topic  7 (117 docs): ruben, cuento, voz, modernismo, narrador, amor, cultura, infante, cuerpo, realidad
+Topic  8 (114 docs): lengua, espanol, linguistico, lenguaje, verbo, linguistica, gramatica, doi, estructura, lexico
+CULTURAL TERMS IN ORIGINAL TOPICS
+Topic 0: 'cultura' (rank 4, score 0.175), 'social' (rank 3, score 0.182), 'politico' (rank 1, score 0.186), 'cultural' (rank 5, score 0.174)
+Topic 1: 'cultura' (rank 3, score 0.168), 'social' (rank 1, score 0.178), 'politico' (rank 5, score 0.165), 'cultural' (rank 9, score 0.157)
+Topic 2: 'social' (rank 5, score 0.182)
+Topic 5: 'cultura' (rank 6, score 0.188), 'social' (rank 10, score 0.173), 'cultural' (rank 3, score 0.199)
+Topic 7: 'cultura' (rank 7, score 0.170)
+
+Summary:
+  'cultura': appears in 4 topics (44.4%)
+    Topics: [0, 1, 5, 7]
+  'social': appears in 4 topics (44.4%)
+    Topics: [0, 1, 2, 5]
+  'politico': appears in 2 topics (22.2%)
+    Topics: [0, 1]
+  'cultural': appears in 3 topics (33.3%)
+    Topics: [0, 1, 5]
+✓ Created 9 time periods:
+  Period_1: 1981-2000 (226 docs)
+  Period_2: 2000-2006 (255 docs)
+  Period_3: 2006-2010 (206 docs)
+  Period_4: 2010-2013 (197 docs)
+  Period_5: 2013-2017 (286 docs)
+  Period_6: 2017-2019 (172 docs)
+  Period_7: 2019-2021 (284 docs)
+  Period_8: 2021-2023 (249 docs)
+  Period_9: 2023-2024 (92 docs)
+ANALYSIS 1: TOPIC DISTRIBUTION OVER TIME
+
+1981-2000:
+  Topic  0:  32 docs ( 14.2%)
+  Topic  1:  61 docs ( 27.0%)
+  Topic  2:   4 docs (  1.8%)
+  Topic  3:  36 docs ( 15.9%)
+  Topic  4:  25 docs ( 11.1%)
+  Topic  5:   9 docs (  4.0%)
+  Topic  6:   7 docs (  3.1%)
+  Topic  7:  27 docs ( 11.9%)
+  Topic  8:  17 docs (  7.5%)
+
+2000-2006:
+  Topic  0:  70 docs ( 27.5%)
+  Topic  1:  40 docs ( 15.7%)
+  Topic  2:   5 docs (  2.0%)
+  Topic  3:  24 docs (  9.4%)
+  Topic  4:  24 docs (  9.4%)
+  Topic  5:  28 docs ( 11.0%)
+  Topic  6:  25 docs (  9.8%)
+  Topic  7:  14 docs (  5.5%)
+  Topic  8:  10 docs (  3.9%)
+
+2006-2010:
+  Topic  0:  44 docs ( 21.4%)
+  Topic  1:  30 docs ( 14.6%)
+  Topic  2:   5 docs (  2.4%)
+  Topic  3:  17 docs (  8.3%)
+  Topic  4:  27 docs ( 13.1%)
+  Topic  5:  24 docs ( 11.7%)
+  Topic  6:  11 docs (  5.3%)
+  Topic  7:  23 docs ( 11.2%)
+  Topic  8:   4 docs (  1.9%)
+
+2010-2013:
+  Topic  0:  50 docs ( 25.4%)
+  Topic  1:  25 docs ( 12.7%)
+  Topic  2:   2 docs (  1.0%)
+  Topic  3:  12 docs (  6.1%)
+  Topic  4:  15 docs (  7.6%)
+  Topic  5:  31 docs ( 15.7%)
+  Topic  6:  19 docs (  9.6%)
+  Topic  7:  17 docs (  8.6%)
+  Topic  8:   6 docs (  3.0%)
+
+2013-2017:
+  Topic  0:  68 docs ( 23.8%)
+  Topic  1:  34 docs ( 11.9%)
+  Topic  2:  13 docs (  4.5%)
+  Topic  3:  36 docs ( 12.6%)
+  Topic  4:  28 docs (  9.8%)
+  Topic  5:  24 docs (  8.4%)
+  Topic  6:  14 docs (  4.9%)
+  Topic  7:  11 docs (  3.8%)
+  Topic  8:  22 docs (  7.7%)
+
+2017-2019:
+  Topic  0:  30 docs ( 17.4%)
+  Topic  1:  17 docs (  9.9%)
+  Topic  2:  33 docs ( 19.2%)
+  Topic  3:  11 docs (  6.4%)
+  Topic  4:  17 docs (  9.9%)
+  Topic  5:  10 docs (  5.8%)
+  Topic  6:  14 docs (  8.1%)
+  Topic  7:   5 docs (  2.9%)
+  Topic  8:   6 docs (  3.5%)
+
+2019-2021:
+  Topic  0:  53 docs ( 18.7%)
+  Topic  1:  26 docs (  9.2%)
+  Topic  2:  83 docs ( 29.2%)
+  Topic  3:  23 docs (  8.1%)
+  Topic  4:  17 docs (  6.0%)
+  Topic  5:  15 docs (  5.3%)
+  Topic  6:  20 docs (  7.0%)
+  Topic  7:   8 docs (  2.8%)
+  Topic  8:  30 docs ( 10.6%)
+
+2021-2023:
+  Topic  0:  40 docs ( 16.1%)
+  Topic  1:  14 docs (  5.6%)
+  Topic  2:  43 docs ( 17.3%)
+  Topic  3:  19 docs (  7.6%)
+  Topic  4:  20 docs (  8.0%)
+  Topic  5:  10 docs (  4.0%)
+  Topic  6:  18 docs (  7.2%)
+  Topic  7:  10 docs (  4.0%)
+  Topic  8:  19 docs (  7.6%)
+
+2023-2024:
+  Topic  0:  16 docs ( 17.4%)
+  Topic  1:   7 docs (  7.6%)
+  Topic  2:  29 docs ( 31.5%)
+  Topic  3:   7 docs (  7.6%)
+  Topic  4:   8 docs (  8.7%)
+  Topic  5:   5 docs (  5.4%)
+  Topic  6:   7 docs (  7.6%)
+  Topic  7:   2 docs (  2.2%)
+ANALYSIS 2: CULTURAL TERMS - Topic Prevalence Over Time
+
+'cultura' (present in topics: [0, 1, 5, 7])
+  1981-2000: 129/226 docs (57.1%)
+  2000-2006: 152/255 docs (59.6%)
+  2006-2010: 121/206 docs (58.7%)
+  2010-2013: 123/197 docs (62.4%)
+  2013-2017: 137/286 docs (47.9%)
+  2017-2019: 62/172 docs (36.0%)
+  2019-2021: 102/284 docs (35.9%)
+  2021-2023: 74/249 docs (29.7%)
+  2023-2024: 30/92 docs (32.6%)
+
+'social' (present in topics: [0, 1, 2, 5])
+  1981-2000: 106/226 docs (46.9%)
+  2000-2006: 143/255 docs (56.1%)
+  2006-2010: 103/206 docs (50.0%)
+  2010-2013: 108/197 docs (54.8%)
+  2013-2017: 139/286 docs (48.6%)
+  2017-2019: 90/172 docs (52.3%)
+  2019-2021: 177/284 docs (62.3%)
+  2021-2023: 107/249 docs (43.0%)
+  2023-2024: 57/92 docs (62.0%)
+
+'politico' (present in topics: [0, 1])
+  1981-2000: 93/226 docs (41.2%)
+  2000-2006: 110/255 docs (43.1%)
+  2006-2010: 74/206 docs (35.9%)
+  2010-2013: 75/197 docs (38.1%)
+  2013-2017: 102/286 docs (35.7%)
+  2017-2019: 47/172 docs (27.3%)
+  2019-2021: 79/284 docs (27.8%)
+  2021-2023: 54/249 docs (21.7%)
+  2023-2024: 23/92 docs (25.0%)
+
+'cultural' (present in topics: [0, 1, 5])
+  1981-2000: 102/226 docs (45.1%)
+  2000-2006: 138/255 docs (54.1%)
+  2006-2010: 98/206 docs (47.6%)
+  2010-2013: 106/197 docs (53.8%)
+  2013-2017: 126/286 docs (44.1%)
+  2017-2019: 57/172 docs (33.1%)
+  2019-2021: 94/284 docs (33.1%)
+  2021-2023: 64/249 docs (25.7%)
+  2023-2024: 28/92 docs (30.4%)
+ANALYSIS 3: INDIVIDUAL TOPIC TRENDS (Topics with Cultural Terms)
+Topics containing at least one cultural term: [0, 1, 2, 5, 7]
+
+Topic 0:
+  Words: politico, nacional, social, cultura, cultural, ciudad, imagen, cuerpo, relacion, memoria
+  Contains: 'cultura', 'social', 'politico', 'cultural'
+    1981-2000:  32 docs ( 14.2%)
+    2000-2006:  70 docs ( 27.5%)
+    2006-2010:  44 docs ( 21.4%)
+    2010-2013:  50 docs ( 25.4%)
+    2013-2017:  68 docs ( 23.8%)
+    2017-2019:  30 docs ( 17.4%)
+    2019-2021:  53 docs ( 18.7%)
+    2021-2023:  40 docs ( 16.1%)
+    2023-2024:  16 docs ( 17.4%)
+
+Topic 1:
+  Words: social, discurso, cultura, relacion, politico, punto, idea, dios, cultural, humano
+  Contains: 'cultura', 'social', 'politico', 'cultural'
+    1981-2000:  61 docs ( 27.0%)
+    2000-2006:  40 docs ( 15.7%)
+    2006-2010:  30 docs ( 14.6%)
+    2010-2013:  25 docs ( 12.7%)
+    2013-2017:  34 docs ( 11.9%)
+    2017-2019:  17 docs (  9.9%)
+    2019-2021:  26 docs (  9.2%)
+    2021-2023:  14 docs (  5.6%)
+    2023-2024:   7 docs (  7.6%)
+
+Topic 2:
+  Words: violencia, sexual, cuerpo, genero, social, femenino, mexico, masculinidad, madre, discurso
+  Contains: 'social'
+    1981-2000:   4 docs (  1.8%)
+    2000-2006:   5 docs (  2.0%)
+    2006-2010:   5 docs (  2.4%)
+    2010-2013:   2 docs (  1.0%)
+    2013-2017:  13 docs (  4.5%)
+    2017-2019:  33 docs ( 19.2%)
+    2019-2021:  83 docs ( 29.2%)
+    2021-2023:  43 docs ( 17.3%)
+    2023-2024:  29 docs ( 31.5%)
+
+Topic 5:
+  Words: america, colonial, cultural, latinoamericano, mexico, cultura, latino, nacional, argentina, social
+  Contains: 'cultura', 'social', 'cultural'
+    1981-2000:   9 docs (  4.0%)
+    2000-2006:  28 docs ( 11.0%)
+    2006-2010:  24 docs ( 11.7%)
+    2010-2013:  31 docs ( 15.7%)
+    2013-2017:  24 docs (  8.4%)
+    2017-2019:  10 docs (  5.8%)
+    2019-2021:  15 docs (  5.3%)
+    2021-2023:  10 docs (  4.0%)
+    2023-2024:   5 docs (  5.4%)
+
+Topic 7:
+  Words: ruben, cuento, voz, modernismo, narrador, amor, cultura, infante, cuerpo, realidad
+  Contains: 'cultura'
+    1981-2000:  27 docs ( 11.9%)
+    2000-2006:  14 docs (  5.5%)
+    2006-2010:  23 docs ( 11.2%)
+    2010-2013:  17 docs (  8.6%)
+    2013-2017:  11 docs (  3.8%)
+    2017-2019:   5 docs (  2.9%)
+    2019-2021:   8 docs (  2.8%)
+    2021-2023:  10 docs (  4.0%)
+    2023-2024:   2 docs (  2.2%)
+ANALYSIS 4: STATISTICAL TREND ANALYSIS (Topic vs. Time)
+Topic  1: Slope=-2.022 | p=0.0015 | Significant Decline
+Topic  2: Slope=3.945 | p=0.0022 | Significant Growth
+Topic  7: Slope=-1.099 | p=0.0090 | Significant Decline
+
+✓ Analysis saved to: evolution_analysis\04_statistical_trends.xlsx
+
+================================================================================
+SUMMARY: KEY FINDINGS
+================================================================================
+
+1. CULTURAL TERMS IN CORPUS:
+   'cultura': Present in 4/9 topics (44.4%)
+   'social': Present in 4/9 topics (44.4%)
+   'politico': Present in 2/9 topics (22.2%)
+   'cultural': Present in 3/9 topics (33.3%)
+
+2. DOCUMENT DISTRIBUTION TRENDS (Statistical Slope):
+(Slope = Percentage points gained/lost per period)
+   'cultura': Slope -4.33 | p=0.001 | Significant Decline 📉
+   'social': Slope +0.72 | p=0.435 | Stable / Noisy (Not Significant) 〰️
+   'politico': Slope -2.60 | p=0.000 | Significant Decline 📉
+   'cultural': Slope -3.23 | p=0.004 | Significant Decline 📉
+
+3. TOPICS WITH CULTURAL VOCABULARY:
+   5 topics contain cultural terms: [0, 1, 2, 5, 7]
+
+================================================================================
+ANALYSIS COMPLETE

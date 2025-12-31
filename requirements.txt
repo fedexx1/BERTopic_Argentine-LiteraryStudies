@@ -1,0 +1,14 @@
+bertopic
+sentence-transformers
+spacy
+scikit-learn
+umap-learn
+hdbscan
+pandas
+numpy
+matplotlib
+seaborn
+nltk
+PyMuPDF
+openpyxl
+scipy
