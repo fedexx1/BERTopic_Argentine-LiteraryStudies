@@ -1,6 +1,6 @@
-# BERTopic Implementation for Spanish Literary Journals
+# BERTopic Implementation for Argentine Literary Journals
 
-Topic modeling pipeline using BERTopic to analyze thematic structures in Spanish-language literary criticism.
+Topic modeling pipeline using BERTopic to analyze vocabulary structures in Argentine literary criticism.
 
 ## Overview
 
@@ -13,9 +13,9 @@ This repository provides a complete implementation for:
 
 ```
 ├── code/
-│   ├── bertopic_training_comentado.py          # Model training
-│   ├── topic_evolution_correlation_comentado.py # Diachronic analysis
-│   ├── digital_transition_analysis_comentado.py # Print vs. digital analysis
+│   ├── bertopic_training.py          # Model training
+│   ├── topic_evolution_correlation.py # Diachronic analysis
+│   ├── digital_transition_analysis.py # Print vs. digital analysis
 │   └── data_extraction/                         # PDF preprocessing utilities
 │
 ├── input_data/
@@ -34,6 +34,7 @@ python -m spacy download es_core_news_lg
 
 ## Usage
 
-1. Set `directory_path` in `bertopic_training_comentado.py` to your corpus folder
+1. Set `directory_path` in `bertopic_training.py` to your corpus folder
 2. Run the training script to generate the model and outputs
 3. Run the analysis scripts from a directory containing the model outputs
+
